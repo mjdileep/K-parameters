@@ -1,0 +1,67 @@
+E:\lastHope\3-18-2016-KParameterCalculater\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+E:\lastHope\3-18-2016-KParameterCalculater\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\lastHope\3-18-2016-KParameterCalculater\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+E:\lastHope\3-18-2016-KParameterCalculater\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\lastHope\3-18-2016-KParameterCalculater\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+E:\lastHope\3-18-2016-KParameterCalculater\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+E:\lastHope\3-18-2016-KParameterCalculater\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\lastHope\3-18-2016-KParameterCalculater\WindowsFormsApplication5\obj\Debug\KParameters.csproj.GenerateResource.Cache
+E:\lastHope\3-18-2016-KParameterCalculater\WindowsFormsApplication5\obj\Debug\KParameters.csprojResolveAssemblyReference.cache
+E:\lastHope\ongoing projects\3-18-2016-KParameterCalculater_makingAccuracy\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+E:\lastHope\ongoing projects\3-18-2016-KParameterCalculater_makingAccuracy\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+E:\lastHope\ongoing projects\3-18-2016-KParameterCalculater_makingAccuracy\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+E:\lastHope\ongoing projects\3-18-2016-KParameterCalculater_makingAccuracy\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+E:\lastHope\ongoing projects\3-18-2016-KParameterCalculater_makingAccuracy\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+E:\lastHope\ongoing projects\3-18-2016-KParameterCalculater_makingAccuracy\WindowsFormsApplication5\obj\Debug\KParameters.csprojResolveAssemblyReference.cache
+E:\lastHope\ongoing projects\3-18-2016-KParameterCalculater_makingAccuracy\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+E:\lastHope\ongoing projects\3-18-2016-KParameterCalculater_makingAccuracy\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+E:\lastHope\ongoing projects\3-18-2016-KParameterCalculater_makingAccuracy\WindowsFormsApplication5\obj\Debug\KParameters.csproj.GenerateResource.Cache
+C:\Users\ASUS-PC\Desktop\Using to edit now\Kparameters\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\ASUS-PC\Desktop\Using to edit now\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\ASUS-PC\Desktop\Using to edit now\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\ASUS-PC\Desktop\Using to edit now\Kparameters\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\ASUS-PC\Desktop\Using to edit now\Kparameters\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\ASUS-PC\Desktop\Using to edit now\Kparameters\WindowsFormsApplication5\obj\Debug\KParameters.csprojResolveAssemblyReference.cache
+C:\Users\ASUS-PC\Desktop\Using to edit now\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\ASUS-PC\Desktop\Using to edit now\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\ASUS-PC\Desktop\Using to edit now\Kparameters\WindowsFormsApplication5\obj\Debug\KParameters.csproj.GenerateResource.Cache
+C:\Users\ASUS-PC\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\ASUS-PC\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\ASUS-PC\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\ASUS-PC\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\ASUS-PC\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\ASUS-PC\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\ASUS-PC\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\NationalInstruments.NI4882.dll
+C:\Users\ASUS-PC\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\ASUS-PC\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\NationalInstruments.NI4882.xml
+C:\Users\ASUS-PC\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\KParameters.csprojResolveAssemblyReference.cache
+C:\Users\ASUS-PC\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\ASUS-PC\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\ASUS-PC\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\KParameters.csproj.GenerateResource.Cache
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\NationalInstruments.SystemConfiguration.dll
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\NationalInstruments.NI4882.xml
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\NationalInstruments.SystemConfiguration.xml
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\KParameters.csprojResolveAssemblyReference.cache
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+C:\Users\John\Desktop\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\KParameters.csproj.GenerateResource.Cache
+G:\Calibration firmwares\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe.config
+G:\Calibration firmwares\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.exe
+G:\Calibration firmwares\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.pdb
+G:\Calibration firmwares\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.exe
+G:\Calibration firmwares\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\WindowsFormsApplication5.pdb
+G:\Calibration firmwares\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\GemBox.Spreadsheet.dll
+G:\Calibration firmwares\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\GemBox.Spreadsheet.xml
+G:\Calibration firmwares\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\NationalInstruments.NI4882.xml
+G:\Calibration firmwares\KPara_updatef\Kparameters\WindowsFormsApplication5\bin\Debug\NationalInstruments.SystemConfiguration.xml
+G:\Calibration firmwares\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\KParameters.csprojResolveAssemblyReference.cache
+G:\Calibration firmwares\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Form1.resources
+G:\Calibration firmwares\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\WindowsFormsApplication5.Properties.Resources.resources
+G:\Calibration firmwares\KPara_updatef\Kparameters\WindowsFormsApplication5\obj\Debug\KParameters.csproj.GenerateResource.Cache

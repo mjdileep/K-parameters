@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>GemBox.Spreadsheet</id>
+    <version>39.3.30.1153</version>
+    <title>GemBox.Spreadsheet</title>
+    <authors>GemBox Software</authors>
+    <owners>GemBox Software</owners>
+    <licenseUrl>http://www.gemboxsoftware.com/Spreadsheet/Eula.rtf</licenseUrl>
+    <projectUrl>http://www.gemboxsoftware.com/Spreadsheet/Overview</projectUrl>
+    <iconUrl>http://www.gemboxsoftware.com/images/nugetgbs.png</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>GemBox.Spreadsheet is a .NET component that enables developers to read, write, convert and print spreadsheet files (XLSX, XLS, ODS, CSV, HTML, PDF or XPS) from their .NET applications using one simple API.</description>
+    <summary>GemBox.Spreadsheet is a .NET component for reading and writing spreadsheet files (XLSX, XLS, CSV, ODS, HTML, PDF and XPS).</summary>
+    <releaseNotes>- Added rudimentary support for rendering RTL languages (Hebrew).
+- Added support for images in PDF in Partially Trusted applications.
+- Fixed issue with rendering East Asian characters in PDF.
+-  Added support for &amp;apos;bgcolor&amp;apos; and &amp;apos;align&amp;apos; attributes in HTML reader.</releaseNotes>
+    <copyright>Copyright © GemBox Ltd</copyright>
+    <tags>GemBox.Spreadsheet Excel XLSX XLS ODS PDF XPS HTML CSV Print OpenXml OOXML Spreadsheet</tags>
+  </metadata>
+</package>
